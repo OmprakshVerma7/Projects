@@ -1,1 +1,7 @@
+Datasets : TMDB 5000 dataset 
 
+Dataset contains 2 csv files 
+1. tmdb_5000_credits.csv
+2. tmdb_5000_movies.csv
+
+Dataset link: https://www.kaggle.com/tmdb/tmdb-movie-metadata
